@@ -58,6 +58,7 @@ Your design must be fully responsive and work properly on:
 
 ## 🗂️ Suggested Folder Structure
 You may organize your project like this:
+```
 WID-Web2-C3/
 ├── index.html
 ├── assets/
@@ -65,15 +66,16 @@ WID-Web2-C3/
 │   └── icons/
 ├── styles.css (if using native CSS)
 └── README.md
-
+```
 
 ---
 
 ## 🔧 GitHub Workflow (IMPORTANT)
 
 1. **Fork this repository**
-
-   👉 https://github.com/Womenindefi-org/WID-Web2-C3
+```
+   👉 https://github.com/Womenindefi-org/WID-Web2-C3-Test
+```
 
 2. **Clone your fork**
 
@@ -82,7 +84,9 @@ WID-Web2-C3/
 ```
 
 3. **Navigate into the project**
+```bash
 cd WID-Web2-C3
+```  
 
 4. **Create a new branch**
 ```bash
